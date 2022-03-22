@@ -11,3 +11,5 @@ Commit 5 - further commit on bug-fix branch
 git merge master
 manually editted FD file
 Commit 6 - further commit on bug-fix branch with edited changes.
+git checkout bug-fix
+git merge bug-fix-experimental
