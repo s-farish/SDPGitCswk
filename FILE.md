@@ -27,3 +27,4 @@ manually edited MD file
 git checkout master
 manually edit FD file to resolve conflicts
 Commit 13 - commit on master branch
+![img.png](img.png)
